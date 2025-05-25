@@ -1,0 +1,56 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+.contact-section {
+  padding: 60px 20px;
+  background-color: #ffffff;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+h2 {
+  color: #0056b3;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input, textarea {
+  padding: 12px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+button {
+  padding: 12px;
+  background-color: #0056b3;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #003f88;
+}
+
+.confirmation {
+  margin-top: 20px;
+  color: green;
+  font-weight: bold;
+}

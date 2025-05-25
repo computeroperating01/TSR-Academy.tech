@@ -1,0 +1,23 @@
+.about-section {
+  background-color: #ffffff;
+  padding: 80px 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.about-title {
+  font-size: 36px;
+  color: #0056b3; /* match home theme */
+  margin-bottom: 20px;
+}
+
+.about-text {
+  font-size: 18px;
+  line-height: 1.8;
+  color: #333;
+}
